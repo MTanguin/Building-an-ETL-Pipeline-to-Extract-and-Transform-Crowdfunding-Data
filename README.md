@@ -120,6 +120,6 @@ Results
 ![Alt text](DataFrames/category_df.png)
 ![Alt text](DataFrames/subcategory_df.png)
 ![Alt text](DataFrames/campaign_df.png)
-![Alt text](DataFrames/category_df.png)
+![Alt text](DataFrames/contacts_df.png)
 
 Source: https://courses.bootcampspot.com/courses/2799/assignments/42955?module_item_id=803466
