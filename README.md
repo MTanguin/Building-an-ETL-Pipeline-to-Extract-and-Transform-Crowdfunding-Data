@@ -16,7 +16,7 @@ This ETL mini project is an exercise in building an ETL pipeline using Python, P
 
 ## METHODS
 
-Create the Category and Subcategory DataFrames
+### Create the Category and Subcategory DataFrames
 
 Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
 
@@ -34,7 +34,7 @@ Extract and transform the crowdfunding.xlsx Excel data to create a subcategory D
 
 Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
 
-Create the Campaign DataFrame
+### Create the Campaign DataFrame
 
 Extract and transform the crowdfunding.xlsx Excel data to create a campaign DataFrame has the following columns:
 
@@ -68,7 +68,7 @@ Extract and transform the crowdfunding.xlsx Excel data to create a campaign Data
 
 Export the campaign DataFrame as campaign.csv and save it to your GitHub repository
 
-Create the Contacts DataFrame
+### Create the Contacts DataFrame
 
 Choose one of the following two options for extracting and transforming the data from the contacts.xlsx Excel data:
 
@@ -107,7 +107,7 @@ If you chose Option 2, complete the following steps:
 
 - Clean and then export the DataFrame as contacts.csv and save it to your GitHub repository.
 
-Create the Crowdfunding Database
+### Create the Crowdfunding Database
 
 Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBD Links to an external site..
 
