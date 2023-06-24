@@ -1,7 +1,5 @@
 #### "Building an ETL pipeline using Python, Pandas, Python dictionary methods (or regular expressions) to extract and transform the data."
 
-## Crowdfunding_ETL
-
 ## BACKGROUND
 
 This ETL mini project is an exercise in building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After transformng the data, four CSV files will be created and used to build an Entity Relationship Diagram (ERD) and a table schema, then upload the CSV file data into a Postgres database.
